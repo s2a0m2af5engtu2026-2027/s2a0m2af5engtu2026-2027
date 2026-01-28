@@ -1,6 +1,7 @@
+https://zh.wikipedia.org/zh-tw/%E5%BC%A0%E5%8F%88%E4%BE%A0
+
 ## Hi there 👋
 
-<!--
 **s2a0m2af5engtu2026-2027/s2a0m2af5engtu2026-2027** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
